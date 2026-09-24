@@ -51,4 +51,5 @@ vcpkg_installed/
 # debug information files
 *.dwo
 
-# test output & cache
+# Generated editor info
+.clangd
